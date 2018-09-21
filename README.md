@@ -47,5 +47,11 @@ This application serves to provide users with a way to:
 * Apollo?
 
 
+# Site MockUps
+
+![Splash Page](./mockups/splash_page.png)
+
+
+
 
 
