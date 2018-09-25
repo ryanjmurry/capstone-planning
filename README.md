@@ -48,8 +48,15 @@ This application serves to provide users with a way to:
 
 
 # Site MockUps
-
+### Splash Page
 ![Splash Page](./mockups/splash_page.png)
+### Splash Page Opt. 2
+![Splash Page Opt. 2](./mockups/splash_page_2.png)
+### Home Page Signed In
+![Home Page Signed In](./mockups/home_page_signed_in.png)
+### Home Page Signed Out
+![Home Page Signed Out](./mockups/home_page_signed_out.png)
+
 
 
 
