@@ -61,6 +61,9 @@ This application serves to provide users with a way to:
 ### User Dashboard
 ![User Dashboard](./mockups/user_dashboard.png)
 
+# Site Component Hierarchy
+![Component Hierarchy](./mockups/component_hierarchy.png)
+
 
 
 
