@@ -56,6 +56,10 @@ This application serves to provide users with a way to:
 ![Home Page Signed In](./mockups/home_page_signed_in.png)
 ### Home Page Signed Out
 ![Home Page Signed Out](./mockups/home_page_signed_out.png)
+### Pick Up Detail Page
+![Pick Up Detail Page](./mockups/game_details.png)
+### User Dashboard
+![User Dashboard](./mockups/user_dashboard.png)
 
 
 
