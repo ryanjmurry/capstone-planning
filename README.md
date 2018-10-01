@@ -19,10 +19,19 @@ This application serves to provide users with a way to:
 ### **Resources**
 * React
 * Webpack
-* Redux
 * Jest
 * Moment
-* A database → firebase?
+* Date FNS
+* React Datepicker
+* Firestore/Firebase
+* React Router
+* Redux
+* Toastr
+* Redux Thunk
+* Revalidate
+* Redux Form
+* Semantic UI React
+* Google Maps React
 
 
 ## Stretch Features and Resources
@@ -63,6 +72,9 @@ This application serves to provide users with a way to:
 
 # Site Component Hierarchy
 ![Component Hierarchy](./mockups/component_hierarchy.png)
+
+# Potential Database Structure
+![Database Structure](./database_structure.png)
 
 
 
