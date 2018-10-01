@@ -61,10 +61,12 @@ This application serves to provide users with a way to:
 ![Splash Page](./mockups/splash_page.png)
 ### Splash Page Opt. 2
 ![Splash Page Opt. 2](./mockups/splash_page_2.png)
-### Home Page Signed In
-![Home Page Signed In](./mockups/home_page_signed_in.png)
-### Home Page Signed Out
-![Home Page Signed Out](./mockups/home_page_signed_out.png)
+
+### Pick Up Dashboard Signed In
+![Pick Up Dashboard Signed In](./mockups/home_page_signed_in.png)
+
+### Pick Up Dashboard Signed Out
+![Pick Up Dashboard Signed Out](./mockups/home_page_signed_out.png)
 ### Pick Up Detail Page
 ![Pick Up Detail Page](./mockups/game_details.png)
 ### User Dashboard
